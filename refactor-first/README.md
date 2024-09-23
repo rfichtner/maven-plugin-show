@@ -8,4 +8,3 @@ Add Enforcer plugin and rerun
 
 Validate (and ennforce the project)
     `mvn validate`
-
