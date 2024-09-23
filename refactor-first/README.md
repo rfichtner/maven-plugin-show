@@ -1,10 +1,8 @@
-# Enforcer 
+# Refactor First
 
-Run plugin version check
-    `mvn versions:display-plugin-updates`
 
-Add Enforcer plugin and rerun
-    `mvn versions:display-plugin-updates`
+Run Refactor First
+    `mvn org.hjug.refactorfirst.plugin:refactor-first-maven-plugin:0.5.0-M1:htmlReport`
 
-Validate (and ennforce the project)
-    `mvn validate`
+Check the HTML Report
+
