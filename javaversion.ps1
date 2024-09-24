@@ -1,0 +1,1 @@
+[System.Environment]::SetEnvironmentVariable("JAVA_HOME", "C:\tools\jdk-21.0.1+12-semeru", [System.EnvironmentVariableTarget]::Machine)
