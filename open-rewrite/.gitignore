@@ -1,0 +1,4 @@
+# maven
+/target/
+file.data
+/.vscode/*
