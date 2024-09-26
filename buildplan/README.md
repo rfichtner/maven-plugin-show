@@ -1,9 +1,9 @@
 # Buildplan
 
-List the plugin executions
+List the plugin executions (and see version numbers)
     `mvn buildplan:list`  
 
-Better overview with
+Better overview with (without versions numbers)
     `mvn buildplan:list-phase`  
 
 Add a plugin to the build and see where it shows up
